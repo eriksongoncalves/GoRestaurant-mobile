@@ -1,6 +1,6 @@
 # GoRestaurant
 
-Simple crud application created as a challenge in Rocketseat's.
+Mobile application created as a challenge in Rocketseat's.
 
 Technologies used
 
